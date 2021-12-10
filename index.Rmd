@@ -1,0 +1,19 @@
+---
+title: "Paul Leiby"
+image: "tobi.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/pleiby/"
+  - label: Email
+    url: "mailto:pleiby@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+I am a neo-classically trained data-based modeler living in the Washington DC Area. 
+Currently I work on the Genesis team at Micromodels. I love talking about beekeeping, 
+welding and optimization modeling.
